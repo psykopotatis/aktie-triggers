@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <title>Aktietriggers</title>
+</head>
+<body>
+    <h1>Kommande triggers per aktie</h1>
+    {% for stock in stocks %}
+        <h2>{{ stock.namn }} ({{ stock.kortnamn }})</h2>
+        {% if stock.triggers.all %}
+            <ul>
+                {% for trig in stock.triggers.all %}
+                    <li>
+                        <strong>{{ trig.trigger_rubrik }}</strong><br>
+                        {{ trig.trigger_beskrivning }}<br>
+                        <a href="{{ trig.trigger_referens }}">Länk</a><br>
+                        Påverkan: {{ trig.kurspaverkan }}<br>
+                        Datum: {{ trig.trigger_datum }}
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p><em>Inga triggers</em></p>
+        {% endif %}
+    {% endfor %}
+</body>
+</html>
