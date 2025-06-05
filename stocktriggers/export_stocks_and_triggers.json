@@ -1,0 +1,278 @@
+[
+  {
+    "namn": "Corline Biomedical",
+    "kortnamn": "CLBIO",
+    "orderbook_id": "567480",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "FNSE",
+    "senaste_pris": 9.8,
+    "market_cap_msek": 240.01,
+    "triggers": [
+      {
+        "trigger_rubrik": "Topplinjeresultat fas II (RENAPAIR 02, Renaparin®)",
+        "trigger_beskrivning": "Resultat från fas II-transplantationsstudie väntas H2 2025.",
+        "trigger_referens": "https://www.corline.se/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2025-11-30",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Orexo",
+    "kortnamn": "ORX",
+    "orderbook_id": "28567",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "XSTO",
+    "senaste_pris": 14.72,
+    "market_cap_msek": 510.9406,
+    "triggers": [
+      {
+        "trigger_rubrik": "Återinlämning av FDA-ansökan (NDA) för OX124",
+        "trigger_beskrivning": "FDA-ansökan för högdos-naloxon väntas insändas mitten av 2026.",
+        "trigger_referens": "https://orexo.com/investors/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2026-06-30",
+        "trigger_datum_forvantat": ""
+      },
+      {
+        "trigger_rubrik": "Potentiellt partneravtal för OX640",
+        "trigger_beskrivning": "Förhandlingar med potentiella partners pågår, möjlig affär under 2025.",
+        "trigger_referens": "https://orexo.com/",
+        "kurspaverkan": "mellan",
+        "trigger_datum": "2025-12-31",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Xspray Pharma",
+    "kortnamn": "XSPRAY",
+    "orderbook_id": "789456",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "XSTO",
+    "senaste_pris": 31.05,
+    "market_cap_msek": 1153.1501,
+    "triggers": [
+      {
+        "trigger_rubrik": "FDA-beslut om Dasynoc® (dasatinib) – NDA (PDUFA)",
+        "trigger_beskrivning": "FDA:s besked om marknadsgodkännande av Xsprays ledande kandidat Dasynoc® (förbättrad dasatinib).",
+        "trigger_referens": "https://www.xspraypharma.com/pressmeddelanden/fda-accepterar-ansokan-om-marknadsgodkannande-dasynoc/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2025-10-07",
+        "trigger_datum_forvantat": ""
+      },
+      {
+        "trigger_rubrik": "Inlämning av FDA-ansökan för XS003 (nilotinib)",
+        "trigger_beskrivning": "Bolaget planerar att lämna in en 505(b)(2) NDA-ansökan för XS003 (förbättrad nilotinib) under H1 2025.",
+        "trigger_referens": "https://www.xspraypharma.com/",
+        "kurspaverkan": "mellan",
+        "trigger_datum": "2025-06-30",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Xbrane Biopharma",
+    "kortnamn": "XBRANE",
+    "orderbook_id": "630588",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "XSTO",
+    "senaste_pris": 0.2154,
+    "market_cap_msek": 330.0338,
+    "triggers": [
+      {
+        "trigger_rubrik": "FDA-beslut (BsUFA) om Xlucane™ (ranibizumab biosimilar)",
+        "trigger_beskrivning": "FDA:s beslut om marknadsgodkännande av Xlucane™ biosimilar i USA.",
+        "trigger_referens": "https://xbrane.com/investors/press-releases/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2025-10-21",
+        "trigger_datum_forvantat": ""
+      },
+      {
+        "trigger_rubrik": "Initiering av pivotalt kliniskt program för Xdivane™ (Opdivo®-biosimilar)",
+        "trigger_beskrivning": "Start av fas I/II för Xdivane™ i samarbete med Intas under Q2 2025.",
+        "trigger_referens": "https://xbrane.com/investors/presentations/",
+        "kurspaverkan": "mellan",
+        "trigger_datum": "2025-06-30",
+        "trigger_datum_forvantat": ""
+      },
+      {
+        "trigger_rubrik": "Inlämning av ansökan till EMA för förfylld spruta (Ximluci®)",
+        "trigger_beskrivning": "Ximluci® i förfylld spruta förväntas inlämnas till EMA under 2025.",
+        "trigger_referens": "https://xbrane.com/",
+        "kurspaverkan": "låg",
+        "trigger_datum": "2025-12-31",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Egetis Therapeutics",
+    "kortnamn": "EGTX",
+    "orderbook_id": "283294",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "XSTO",
+    "senaste_pris": 3.115,
+    "market_cap_msek": 1209.3618,
+    "triggers": [
+      {
+        "trigger_rubrik": "Toplinedata från ReTRIACt-studien (Emcitate®)",
+        "trigger_beskrivning": "Studieresultat från ReTRIACt (fas III) väntas H2 2025.",
+        "trigger_referens": "https://www.egetis.com/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2025-11-30",
+        "trigger_datum_forvantat": ""
+      },
+      {
+        "trigger_rubrik": "Inlämning av NDA till FDA (Emcitate®)",
+        "trigger_beskrivning": "Egetis planerar lämna in NDA för Emcitate® i Q4 2025.",
+        "trigger_referens": "https://www.egetis.com/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2025-12-31",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Guard Therapeutics International",
+    "kortnamn": "GUARD",
+    "orderbook_id": "405356",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "FNSE",
+    "senaste_pris": 17.7,
+    "market_cap_msek": 356.9671,
+    "triggers": [
+      {
+        "trigger_rubrik": "Topplinjeresultat fas IIb (POINTER: RMC-035)",
+        "trigger_beskrivning": "Fas IIb-studie i hjärtkirurgi avslutas och rapporteras Q4 2025 – Q1 2026.",
+        "trigger_referens": "https://www.guardtherapeutics.com/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2026-01-31",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Cinclus Pharma",
+    "kortnamn": "CINPHA",
+    "orderbook_id": "1799894",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "XSTO",
+    "senaste_pris": 14.56,
+    "market_cap_msek": 690.0307,
+    "triggers": [
+      {
+        "trigger_rubrik": "Start av fas III-studie (linaprazan glurate)",
+        "trigger_beskrivning": "Första patientdosering i global fas III-studie väntas Q3 2025.",
+        "trigger_referens": "https://cincluspharma.com/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2025-09-30",
+        "trigger_datum_forvantat": ""
+      },
+      {
+        "trigger_rubrik": "Lansering i Kina av linaprazan glurate",
+        "trigger_beskrivning": "Första kommersiella lansering i Kina väntas H2 2025.",
+        "trigger_referens": "https://cincluspharma.com/",
+        "kurspaverkan": "mellan",
+        "trigger_datum": "2025-11-30",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "SynAct Pharma",
+    "kortnamn": "SYNACT",
+    "orderbook_id": "674279",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "XSTO",
+    "senaste_pris": 15.16,
+    "market_cap_msek": 742.9752,
+    "triggers": [
+      {
+        "trigger_rubrik": "Fas IIb-resultat (resomelagon, RA)",
+        "trigger_beskrivning": "Fas IIb-data från RA-studie väntas Q4 2025.",
+        "trigger_referens": "https://synactpharma.com/investors/",
+        "kurspaverkan": "hög",
+        "trigger_datum": "2025-12-31",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Diamyd Medical B",
+    "kortnamn": "DMYD B",
+    "orderbook_id": "414975",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "FNSE",
+    "senaste_pris": 8.78,
+    "market_cap_msek": 1207.2476,
+    "triggers": [
+      {
+        "trigger_rubrik": "Tidig effektavläsning, fas III (DIAGNODE-3)",
+        "trigger_beskrivning": "Fas III-effektdata från DIAGNODE-3 förväntas mars 2026.",
+        "trigger_referens": "https://www.diamyd.com/news.aspx",
+        "kurspaverkan": "gigantisk",
+        "trigger_datum": "2026-03-31",
+        "trigger_datum_forvantat": ""
+      },
+      {
+        "trigger_rubrik": "Slutförd patientinklusion i DIAGNODE-3",
+        "trigger_beskrivning": "Full inklusion av patienter i DIAGNODE-3-studien under Q4 2025.",
+        "trigger_referens": "https://www.diamyd.com/",
+        "kurspaverkan": "mellan",
+        "trigger_datum": "2025-12-15",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "BioArctic B",
+    "kortnamn": "BIOA B",
+    "orderbook_id": "791946",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "XSTO",
+    "senaste_pris": 175.4,
+    "market_cap_msek": 15527.8963,
+    "triggers": [
+      {
+        "trigger_rubrik": "Orphan Drug Designation (USA) för exidavnemab (MSA)",
+        "trigger_beskrivning": "FDA:s beslut om särläkemedelsstatus förväntas H2 2025.",
+        "trigger_referens": "https://www.bioarctic.se/",
+        "kurspaverkan": "låg",
+        "trigger_datum": "2025-10-31",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  },
+  {
+    "namn": "Implantica",
+    "kortnamn": "IMP A SDB",
+    "orderbook_id": "1139609",
+    "valuta": "SEK",
+    "landkod": "SE",
+    "marketplace": "FNSE",
+    "senaste_pris": 42.9,
+    "market_cap_msek": 2975.6,
+    "triggers": [
+      {
+        "trigger_rubrik": "Slutlig PMA-inlämning (Module 3) – RefluxStop™",
+        "trigger_beskrivning": "Slutmodul i FDA:s PMA-process förväntas insändas H2 2025.",
+        "trigger_referens": "https://www.implantica.com/",
+        "kurspaverkan": "mellan",
+        "trigger_datum": "2025-10-31",
+        "trigger_datum_forvantat": ""
+      }
+    ]
+  }
+]
