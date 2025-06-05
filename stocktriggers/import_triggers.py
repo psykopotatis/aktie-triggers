@@ -2,6 +2,11 @@ import json
 from datetime import datetime
 from triggers.models import Stock, StockTrigger
 
+"""
+ # Import triggers like this
+ python manage.py shell < import_triggers.py
+ 
+"""
 with open("biotech_triggers.json", "r") as f:
     triggers = json.load(f)
 
@@ -31,7 +36,9 @@ for item in triggers:
         trigger_beskrivning=item["trigger_beskrivning"],
         trigger_referens=item["trigger_referens"],
         kurspaverkan=item["kurspaverkan"],
-        trigger_datum=trigger_datum
+        trigger_datum=trigger_datum,
+        trigger_datum_text=item.get("trigger_datum_text", "")  # <--- this line
+
     )
     created += 1
 

@@ -12,14 +12,16 @@ const columns = [
         key: "aktie"
     },
     {
-        title: "Rubrik",
-        dataIndex: "trigger_rubrik",
-        key: "rubrik"
-    },
-    {
         title: "Beskrivning",
         dataIndex: "trigger_beskrivning",
-        key: "beskrivning"
+        key: "beskrivning",
+        render: (text, record) => (
+            <div>
+                <strong>{record.trigger_rubrik}</strong>
+                <br />
+                <span>{record.trigger_beskrivning}</span>
+            </div>
+        )
     },
     {
         title: "Påverkan",
