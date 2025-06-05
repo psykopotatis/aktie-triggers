@@ -29,6 +29,7 @@ class StockTrigger(models.Model):
         ]
     )
     trigger_datum = models.DateField()
+    trigger_datum_text = models.CharField(max_length=100, blank=True)  # ← nytt fält!
 
     def __str__(self):
         return f"{self.stock.namn} – {self.trigger_rubrik}"

@@ -7,5 +7,11 @@ class StockAdmin(admin.ModelAdmin):
 
 @admin.register(StockTrigger)
 class StockTriggerAdmin(admin.ModelAdmin):
-    list_display = ('stock', 'trigger_rubrik', 'kurspaverkan', 'trigger_datum')
+    list_display = (
+        "stock",
+        "trigger_rubrik",
+        "kurspaverkan",
+        "trigger_datum",
+        "trigger_datum_text",  # ← ny kolumn i admin
+    )
     list_filter = ('kurspaverkan',)
